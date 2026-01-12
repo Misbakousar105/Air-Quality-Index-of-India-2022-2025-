@@ -7,8 +7,11 @@ A comprehensive hourly dataset tracking atmospheric conditions and air quality a
 
 🗺️ Geographic Coverage
     •	Cities Covered: 29 major cities representing all 28 Indian states + Delhi
+    
     •	Time Period: 2022 to 2025
+    
     •	Records: 842,160 hourly observations
+    
     •	Features: 63 parameters covering weather, pollution, and temporal data
 
   
