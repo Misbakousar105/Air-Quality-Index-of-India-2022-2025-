@@ -12,11 +12,11 @@ Features: 63 parameters covering weather, pollution, and temporal data
 
 📊 Dataset Specifications
 
-    Total Records: 842,160
-    Features: 63 columns
-    Temporal Resolution: Hourly data
-    Period: 2022-2025 (4 years)
-    Memory Usage: ~405 MB
+Total Records: 842,160
+Features: 63 columns
+Temporal Resolution: Hourly data
+Period: 2022-2025 (4 years)
+Memory Usage: ~405 MB
 
 🏙️ Indian Cities Included
 (Representing all 28 states + Union Territory of Delhi)
