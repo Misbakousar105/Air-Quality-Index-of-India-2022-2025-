@@ -6,11 +6,13 @@ Data analysis and visualization of AQI in India
 A comprehensive hourly dataset tracking atmospheric conditions and air quality across 29 major Indian cities (28 states + Delhi) from 2022 to 2025. This dataset provides detailed insights into India's environmental patterns, pollution trends, and meteorological conditions.
 
 🗺️ Geographic Coverage
-  •	Cities Covered: 29 major cities representing all 28 Indian states + Delhi
-  •	Time Period: 2022 to 2025
-  •	Records: 842,160 hourly observations
-  •	Features: 63 parameters covering weather, pollution, and temporal data
-  📊 Dataset Specifications
+    •	Cities Covered: 29 major cities representing all 28 Indian states + Delhi
+    •	Time Period: 2022 to 2025
+    •	Records: 842,160 hourly observations
+    •	Features: 63 parameters covering weather, pollution, and temporal data
+
+  
+📊 Dataset Specifications
 •	Total Records: 842,160
 •	Features: 63 columns
 •	Temporal Resolution: Hourly data
