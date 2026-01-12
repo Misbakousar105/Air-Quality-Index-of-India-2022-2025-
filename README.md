@@ -181,19 +181,33 @@ o	US_AQI_NO2: 2 missing
 o	US_AQI_O3: 73 missing
 
 🎯 India-Specific Analysis Opportunities
+
 Seasonal Patterns
+
 •	Winter (Dec-Feb): Severe PM2.5 pollution in Indo-Gangetic plain
+
 •	Summer (Mar-May): Dust storms, high O3 levels
+
 •	Monsoon (Jun-Sep): Natural cleansing, improved AQI
+
 •	Post-Monsoon (Oct-Nov): Crop burning impacts in North India
+
 Geographic Hotspots
+
 •	Northern Plains: Delhi, Lucknow - Winter smog, crop burning
+
 •	Coastal Cities: Mumbai, Chennai - Marine influence, humidity
+
 •	Southern Plateau: Bengaluru, Hyderabad - Moderate pollution
+
 •	Eastern India: Kolkata - Industrial and vehicular pollution
+
 Event-Based Analysis
+
 •	Festival Impacts: Diwali fireworks, Holi bonfires
+
 •	Agricultural Cycles: Stubble burning seasons
+
 •	Meteorological Events: Western disturbances, monsoon progress
 
 
